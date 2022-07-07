@@ -60,7 +60,6 @@ layer = 0
 conept_ids = [43,44,45,46]  # CNN filter indexes
 samples = [5373, 5568, 5367, 5396, 5357] + [5586,5577,1411,5494,3391] # samples you want to check 
 # ===================================
-
 ```
 
 
