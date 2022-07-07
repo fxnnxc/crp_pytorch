@@ -40,7 +40,7 @@ Find the lines below in  [crp_notebook.ipynb](crp_notebook.ipynb),
 
 #### 1. ImageNet Validation Path 
 
-Download [ImageNet dataset](https://image-net.org/challenges/LSVRC/2012/) or modify the any other dataset.
+Download [ImageNet dataset](https://image-net.org/challenges/LSVRC/2012/) or modify it for any other dataset.
 
 
 ```python
