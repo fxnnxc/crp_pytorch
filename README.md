@@ -12,7 +12,7 @@ Implementation of Concept Relevance Propagation with pytorch. check [crp_noteboo
  ┃ ┃ ┣ 📂 modules
  ┃ ┃ ┃ ┣ 🐍 __init__.py
  ┃ ┃ ┃ ┣ 🐍 activation.py
- ┃ ┃ ┃ ┣ 🐍 conv2d.py       # 🚀 🚀 CRP is implemented by masking here! 
+ ┃ ┃ ┃ ┣ 🐍 conv2d.py       # 🚀 CRP is implemented by masking here!
  ┃ ┃ ┃ ┣ 🐍 dropout.py
  ┃ ┃ ┃ ┣ 🐍 flatten.py
  ┃ ┃ ┃ ┣ 🐍 input.py
