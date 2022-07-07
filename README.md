@@ -3,6 +3,10 @@
 
 Implementation of Concept Relevance Propagation with pytorch. check [crp_notebook.ipynb](crp_notebook.ipynb) for use case. 
 
+
+<img src="image.png">
+
+
 ## File Structure
 
 ```bash
@@ -59,7 +63,4 @@ samples = [5373, 5568, 5367, 5396, 5357] + [5586,5577,1411,5494,3391] # samples 
 
 ```
 
-#### 3. Results
-
-<img src="image.png">
 
