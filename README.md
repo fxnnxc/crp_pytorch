@@ -27,7 +27,7 @@ Implementation of Concept Relevance Propagation with pytorch. check [crp_noteboo
  ┃ ┃ ┃ ┗ 🐍 utils.py
  ┃ ┃ ┗ 🐍 __init__.py
  ┃ ┣ 🐍 data.py         # ImageNet transform
- ┃ ┗ 🐍 vggExplainer.py # wrapper for activation store (needless)
+ ┃ ┗ 🐍 lrp_for_vgg.py # construct lrp model for vgg 16
  ┣ 📜 .gitignore
  ┣ 🪙 LICENSE
  ┣ 📖 README.md
