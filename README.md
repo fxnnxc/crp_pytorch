@@ -3,7 +3,7 @@
 
 Implementation of Concept Relevance Propagation with pytorch. check [crp_notebook.ipynb](crp_notebook.ipynb) for use case. 
 
-* The implemented CRP follows the CRP in paper [From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation](https://arxiv.org/abs/2206.03208)
+* The implemented CRP method is in the paper [From "Where" to "What": Towards Human-Understandable Explanations through Concept Relevance Propagation](https://arxiv.org/abs/2206.03208)
 
 
 <img src="image.png">
